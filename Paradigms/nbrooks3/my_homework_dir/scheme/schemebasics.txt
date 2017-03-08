@@ -1,0 +1,6 @@
+car	= First item
+cdr	= Second and all subsequent items in list
+cadr	= Second item
+cons	= Pairing of two things (list of 3: (cons 1 (cons 2 (cons 3 nil))) 
+atom?	=
+lat?	=
